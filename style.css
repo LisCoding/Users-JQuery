@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin:0;
+}
+
+table {
+  border: 2px solid black;
+  margin: 20px 20px;
+}
+
+th {
+  padding-right: 35px;
+}
+h1 {
+  padding: 20px 50px;
+}
+label, form {
+  display: inline-block;
+
+}
+form {
+  width: 350px;
+  padding: 30px;
+  box-sizing: border-box;
+  border-top: 3px solid gray;
+  margin-left:30px
+}
+label{
+  padding: 10px 2px;
+}
+#submit{
+  margin-left: 200px;
+  display: block;
+  font-size: 20px;
+  color: blue;
+}
